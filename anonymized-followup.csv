@@ -1,0 +1,462 @@
+participant,intro_salary,intro_capable,intro_efficient,intro_skilled,intro_intelligent,intro_independent,intro_motivated,intro_committed,intro_knowconsultants,capable,efficient,skilled,intelligent,independent,confident,aggressive,organized,motivated,committed_relative_others,pros_cons,exam_percentile,late_days,salary,likelihood_promoted,training_rec,hire_rec,manipulation,candidate_name,participant_sex,participant_parent
+6166169,100000,6,6,6,7,7,7,7,0,6,6,6,6,6,7,5,7,7,7,"I don't see any immediate cons, but the three pros are the excellent employment history, the extremely good educational history, and the obvious attention to detail.",91,3,155000,4,1,1,nonparent,allison,Male,0
+6166169,100000,6,6,6,7,7,7,7,0,7,7,7,7,7,7,6,7,7,7,"Again I don't see any negatives on this resume, I see a candidate with excellent work history, excellent education, and a very well crafted CV.",96,5,165000,4,1,1,parent,sarah,Male,0
+1144852,50000,6,7,6,6,5,5,7,0,7,7,7,7,6,6,6,6,7,7,"Pros
+-Good work history, stays at the same jobs for long periods
+-Has her masters in business 
+-Done work in Detroit. If you can deal with Detroit you can deal with anything 
+
+Con's
+-Has kids
+-May have to take more days off for family situations 
+-May not live up to her current job ",74,5,165000,3,1,1,parent,allison,Female,0
+1144852,50000,6,7,6,6,5,5,7,0,7,7,7,7,5,6,6,5,6,5,"Pros
+-good work experience 
+-degree that pertains to the work
+-obviously intelligent and hard working
+
+Con's
+-stayed in her last job for only a year and the one before that for only two years 
+-the firm is in new York but all her experience is in Texas
+-may not stay committed to one job ",80,2,150000,1,0,0,nonparent,sarah,Female,0
+7982414,50000,3,7,7,7,7,7,7,0,7,7,7,7,7,6,6,7,7,5,"pros team management, leadership and organized. 
+cons female, recently moved here, how commited to staying with the organization arr they",90,1,135000,3,0,0,nonparent,allison,Female,1
+7982414,50000,3,7,7,7,7,7,7,0,7,7,7,7,7,6,6,5,7,7,"pros, two degrees, stable employment history, consultant knowledge
+cons, not sure how organized, are they a team player, no management experience ",90,1,135000,2,0,0,parent,sarah,Female,1
+3157490,45000,5,6,4,5,6,5,6,0,5,6,5,4,3,5,4,5,6,4,"Pros-
+Professional
+Experienced
+Educated
+Cons-
+Not altruistic(no volunteering)
+Not Directly expierenced
+Worked in this field over 6 years ago
+",67,1,145000,3,1,1,parent,allison,Male,0
+3157490,45000,5,6,4,5,6,5,6,0,6,7,6,6,7,6,7,5,6,6,"Pro-
+Directly experienced
+Been in a management position
+Altruisitic
+Cons-
+Educated at the same university for university, and MBA
+Varied work history
+Lives in a place where she doesnt work?
+",50,1,160000,3,1,1,nonparent,sarah,Male,0
+3332141,60000,5,5,5,5,5,6,6,0,5,5,5,4,5,5,4,6,6,6,"Pros: Educated, hard worker, good leader
+Cons: Moves companies a lot, new employee, not much experience",90,4,65000,3,1,1,nonparent,allison,Male,0
+3332141,60000,5,5,5,5,5,6,6,0,4,4,4,4,4,4,2,5,6,4,"Pros: Educated, Extra activities, hard worker
+Cons: Not much leadership experience, not much experience with jobs in the field, young",90,4,65000,3,1,1,parent,sarah,Male,0
+3596324,75000,6,7,6,6,7,6,6,0,6,6,6,7,5,5,4,6,5,5,"Effective consulting experience, graduates degree, relevant business experience.
+
+Doesn't stay at jobs long, no references, seems to have more experience in web based tasks than in person consulting. ",90,2,140000,3,1,1,parent,allison,Female,1
+3596324,75000,6,7,6,6,7,6,6,0,6,6,6,7,6,5,5,6,6,6,"masters degree, relevant consulting experience, effective ideas
+
+Big focus on only marketing, half experience as intern, experience limited to theater and hospitality",90,2,140000,2,0,0,nonparent,sarah,Female,1
+4980034,78000,5,5,6,6,6,6,5,0,6,5,5,6,6,6,5,6,5,5,"Pros - leadership skills, teamwork, management skills
+Cons - changes jobs, ",80,2,142000,4,1,1,parent,allison,Female,0
+4980034,78000,5,5,6,6,6,6,5,0,5,6,5,5,6,6,6,5,6,6,"Pros - lots of experience, great record of getting things done, achieves or goes above goals
+
+Cons - changes jobs often, lack of teamwork, ",80,2,138000,3,1,1,nonparent,sarah,Female,0
+7165863,80000,6,6,7,5,5,7,6,0,5,5,5,6,5,5,3,5,5,5,"Pros
+A female in a probably male dominated field
+Experience as a manager
+Has some leadership skills
+
+Cons
+Doesn't spend a long time a a job 
+Doesnt have a large amount of experience
+Wasn't in a large market ( small city)
+",85,3,140000,3,1,1,nonparent,allison,Female,0
+7165863,80000,6,6,7,5,5,7,6,0,7,6,6,6,6,6,5,6,6,6,"Pros
+Made large improvements in company she worked with
+Has worked with large companies
+Does Volunteer work
+
+Cons
+A parent, this could interfere with her job
+Does she have leadership experience
+I wonder could she deliver the same results or was it just a fluke
+
+",85,5,150000,3,1,1,parent,sarah,Female,0
+2034662,45000,4,5,5,6,4,4,4,1,4,5,5,4,4,4,4,4,4,4,"lots of experience
+lots of education
+lots of skills
+maybe expensive salary 
+maybe better quaalified people
+could be better",78,15,150,4,1,1,parent,allison,Male,0
+2034662,45000,4,5,5,6,4,4,4,1,5,4,5,5,5,6,5,6,5,5,"smart, dedicated, lots of experience
+maybe that's all overkill
+expensive salary 
+lack of diveristy",80,15,150,3,1,1,nonparent,sarah,Male,0
+8944452,50000,7,6,6,6,6,6,6,0,4,5,6,6,6,7,5,6,6,7,"pros would be educated, masters degree, current work experience is great
+
+i dont see any cons",88,5,150000,4,1,1,nonparent,allison,Female,1
+8944452,50000,7,6,6,6,6,6,6,0,5,5,4,5,5,5,3,4,5,5,"she is active, has experience, and advances quickly.
+
+cons would be she goes through companies quickly, she doesnt stay in one company for too long and thats it.",62,2,135000,3,1,1,parent,sarah,Female,1
+8684519,100000,7,6,6,7,5,7,7,0,6,6,6,7,7,7,4,7,6,6,"Pros: Self motivated, wide spread of experience, has good past performance.
+
+Cons: Female likely to be less aggressive, could have more experience in the relevant field, possibly not tech savvy.",87,2,140000,3,1,1,nonparent,allison,Male,0
+8684519,100000,7,6,6,7,5,7,7,0,4,4,4,5,7,7,2,6,5,5,"Pros: attended decent colleges, has management experience, likely patient and willing to learn.
+Cons: Definitely not tech savvy, appears to have kids so might not be reliable at coming in not tired, might need more training.",85,2,135000,2,0,0,parent,sarah,Male,0
+6798928,80000,6,6,5,6,7,6,5,0,6,6,6,5,6,7,6,5,7,5,"Pros- Has a pretty robust skill set, shows quantifiable results, has moved from associate positions into management and consulting -- understands roles
+Cons- Has handled all aspects of so many things before, may not be able/willing to share responsibilities or assigned roles of smaller scope; may not be as compatible with a high-tech company (hard to say); may not like smaller scale of a startup",85,7,140000,3,1,1,parent,allison,Male,1
+6798928,80000,6,6,5,6,7,6,5,0,6,5,6,5,5,6,5,5,5,5,"Pros- Impressive launch successes, varied client specialties/areas, varied experience with marketing and sales plans
+Cons- May not have expertise for high-tech startup area, may have difficulty backing down from focus on high level strategies for multiple clients to focus on single company's marketing, some results only given by projections/estimations -- why?",85,7,140000,3,1,1,nonparent,sarah,Male,1
+8943699,125000,6,6,6,4,6,6,3,0,5,5,5,4,4,4,4,4,4,4,"Pros: Seems to have performed very well on jobs so far, appears to be very suited to coordinating others, can become an excellent long-term relationship due to youth
+
+Cons: Hasn't worked outside of the Detroit area, work experience mostly seems centered around design, especially web design, and not much experience outside of internships",65,3,135000,3,1,1,nonparent,allison,Male,0
+8943699,125000,6,6,6,4,6,6,3,0,5,4,5,5,4,4,4,4,4,4,"Pros: Has a good deal of diverse experience, has a solid track record of success, is young and could lead to a potential lengthy long-term relationship
+
+Cons: Has less experience than older candidates, appears to be very busy with extracurricular activities,  doesn't have much experience outside of one specific part of Texas",65,3,135000,3,1,1,parent,sarah,Male,0
+5885778,40000,5,5,6,6,5,6,6,0,7,7,7,7,7,7,6,7,6,6,"Pros: Education, management experience, consultant experience. Cons: Hasn't stay at any one place for very long, May be set in own ways, May expect more than job has to offer.",77,2,170000,4,1,1,parent,allison,Female,1
+5885778,40000,5,5,6,6,5,6,6,0,6,6,6,6,5,6,4,6,6,6,"Pros: Masters in business / major in marketing, Has consultant experience, success in previous jobs. Cons: Consultant experience is not extensive , management experience is not extensive,  Doesn't seem to stay at one job too long, ",77,2,145000,3,1,1,nonparent,sarah,Female,1
+9102085,60000,5,5,5,6,5,5,4,1,5,3,4,5,5,6,5,6,6,6,"pros: lots of experience, college degree, relatively young
+cons: results sections aren't very specific, only worked in 1 city, they require a high salary",80,2,135000,3,1,1,parent,allison,Male,0
+9102085,60000,5,5,5,6,5,5,4,1,7,6,6,7,4,6,6,7,6,6,"Pros: Lots of experience, wide variety of previously completed tasks, Masters degree
+Cons: Only worked in Austin Texas, no very large clients, hasn't been in school for a while",66,5,145000,3,0,1,nonparent,sarah,Male,0
+3446683,45000,4,7,5,3,6,3,4,1,3,6,3,6,2,6,2,6,4,2,"seems ambitious, seems hard working, seems good. Seems like they might be hard to work with others, seems like they might be selfish, seems like they might be awful. ",77,34,145000,2,1,1,nonparent,allison,Female,0
+3446683,45000,4,7,5,3,6,3,4,1,6,2,7,5,6,3,7,5,2,5,"seems ambitious, smart, and hard working. might not work well with others, might have an awful personality, might not be good",62,5,54000,2,0,1,parent,sarah,Female,0
+5657855,77000,5,5,5,5,6,5,5,0,4,4,4,4,4,4,3,5,4,5,"Pros:
+- qualitative data listed (""greater than 50% increase.."")
+- holds an MBA
+- skills and knowledge section is irrelevant and unnecessary
+
+Cons:
+- no professional certifications
+- hardly any description listed for work at Manual Public Relations
+- format with ""Results"" being underlined ",90,3,140000,2,0,0,nonparent,allison,Female,0
+5657855,77000,5,5,5,5,6,5,5,0,6,6,6,5,5,5,3,5,5,5,"Pros: 
+- relevant consulting experience
+- has MBA
+- qualitative experience listed (ex: $16M in marketing benefits)
+
+Cons:
+- no management experience
+- no professional certifications
+- little to no description for internship experience",85,2,140000,3,1,1,parent,sarah,Female,0
+5621864,120000,7,7,7,7,6,6,6,1,7,6,5,5,5,5,6,5,4,5,"pro: project management experience, MBA and undergrad degree, and experience in public relations and other fields.  diversity of experience is good.
+
+cons: has different fields of experience rather than a focus on one industry; resume speaks of leadership but doesn't indicate ability to work well with others; needs more leadership experience with large teams",77,5,155000,3,1,1,nonparent,allison,Male,0
+5621864,120000,7,7,7,7,6,6,6,1,3,3,4,3,3,5,4,3,2,3,"pros: at Alliant, she created procedures that led to growth; she has led teams for product launches; she has a lot of marketing experience, which firms need
+
+cons: she went from a strategy associate at one firm to an intern at another which makes me think she didn't do well; many of her accomplishments seem analytical rather than achieving something, such as doing research; she lacks large team leadership experience",88,2,145000,2,0,0,parent,sarah,Male,0
+6966349,140000,6,6,6,6,7,7,7,1,6,6,6,6,6,6,5,6,6,6,"+ Extensive experience in sales and PR
++ Degree from notable institution
++ Relevant internships in college
+
+- Not sure how well would do with bigger budgets and more headcount.
+- Could be too specialized in areas of experience and not enough general experience over several areas overall
+- Not much work experience",80,2,145000,3,1,1,parent,allison,Male,1
+6966349,140000,6,6,6,6,7,7,7,1,5,6,5,5,6,6,6,5,6,6,"+ MBA from prestigious institution
++ Results are very good from current job
++ Relatively young outlook
+
+- Being young also = not much practical experience.
+- Only two jobs in history, with two internships.
+- Smaller company experience, not sure how well would do with 50m+ budgets or headcounts of more than 50",73,2,140000,3,1,0,nonparent,sarah,Male,1
+2547415,75000,6,7,4,7,7,7,7,0,7,6,6,7,7,7,4,7,7,7,"Pros: Masters degree, gets good results, seems loyal to their company
+Cons: Has at least one kid and family emergencies could arise, current address doesn't match city of current company? Doesn't have the same sort of numbers as the last candidate",90,7,160000,3,1,1,parent,allison,Male,0
+2547415,75000,6,7,4,7,7,7,7,0,7,7,7,7,7,7,4,7,7,7,"Pros: They have a lot of experience, they have a masters degree, they seem like a good person based on their volunteering
+Cons: They might get distracted with their volunteering, they don't seem like a long term employee, they had to be an intern a second time for some reason",80,5,160000,3,1,1,nonparent,sarah,Male,0
+7457159,70000,5,6,6,5,4,7,6,0,7,7,7,6,5,6,4,7,7,7,"has been promoted within a company, great at communication, been within the field awhile
+
+may be too focused on several tasks, may have trouble scaling back to overseeing, could have trouble deligating",80,5,160000,4,1,1,parent,allison,Female,0
+7457159,70000,5,6,6,5,4,7,6,0,6,6,7,6,5,6,4,5,6,6,"well educated, seems career driven, seems good at problem solving
+maybe not enough time in a consultant role, seems to only have experience with small local businesses, jumps jobs somewhat",76,5,145000,3,1,1,nonparent,sarah,Female,0
+7974761,110000,5,3,4,4,6,6,4,0,6,6,6,6,6,6,4,6,5,6,"Pro:
+Business experience
+Currently holds similar position
+Relevant education
+
+Con:
+Can't think of any",85,4,165000,4,1,1,parent,allison,Female,0
+7974761,110000,5,3,4,4,6,6,4,0,5,5,6,5,6,5,4,5,6,5,"Pro:
+Relevant education
+Business experience 
+Organized
+
+Con:
+Lots of different employers in a short time
+Experience isn't exactly in this field. 
+Possibly self-interested ",90,3,150000,3,1,1,nonparent,sarah,Female,0
+5028053,100000,4,4,5,4,6,5,5,0,6,6,6,6,5,5,5,6,6,6,"Pro: Varied experience in the PR marketing field so she has a wide view to draw from, currently works with consultants and is familiar with their role, has a strong education background including MBA. Con: Has never been a true management consultant, doesn't have a prestigious MBA, might not be strong in areas outside of marketing.",50,3,140000,3,1,1,parent,allison,Female,0
+5028053,100000,4,4,5,4,6,5,5,0,6,6,6,6,6,5,6,6,5,6,"Pro: Already has consultant experience, Has an MBA in marketing, Has been responsible for strategy at many different levels. Con: MBA not Ivy league, only has experience in the Texas area, not sure if experience is varied enough or is too focused on consultants",65,3,145000,3,1,1,nonparent,sarah,Female,0
+4006427,50000,5,6,5,5,4,5,4,0,5,5,6,6,5,6,5,6,6,5,"good education, experience, successful at previous jobs.
+from out of town, no personal references,  seems like she takes on too many things at once ",85,15,145000,3,1,1,nonparent,allison,Male,0
+4006427,50000,5,6,5,5,4,5,4,0,5,5,4,5,5,5,4,5,5,4,"She has a good education, she has experience, she seems stable
+she has moved jobs a few times, she is not from the area, she doesn't seem to have much in the way of references. ",85,15,135000,3,1,1,parent,sarah,Male,0
+5287076,125000,7,7,7,7,7,7,7,0,6,6,6,6,6,6,6,6,6,6,"Pros:
+In her current position, Allison manages all phases of marketing and sales for her clients.
+She has developed a system for acquiring and retaining high value customers
+Allison lists impressive results that she has had at her current job.
+Cons:  She has only been in her current position for 4 years and may lack some experience.
+She does not list her interaction with upper management or her ability to help bring cohesion to the company.
+She doesn't mention having experience with clients in multiple states.",85,5,140000,3,1,1,parent,allison,Female,1
+5287076,125000,7,7,7,7,7,7,7,0,6,6,6,6,6,6,6,6,6,6,"Pros : Sarah is able to create well rounded plans to help campaign clients gain revenue. She has impressive projections for gaining revenue within the next 5 years.
+Sarah has experience managing individuals who are involved with the websites and marketing plans for her clients. 
+Sarah provides cohesion for aligning senior management under one customer focused approach.
+
+Con: In Sarah's current position, she has many projections.  However, these have not been proven yet.  There is a 2006 projected date listed in her current job that started in 2012 (typo?).
+Sarah has been with her current company for 4 years and she may lack the experience necessary for the new position. 
+She only has two clients listed in her current job and the City Rep Theater is local.  She does not appear to have experience with clients from different cities across the east coast.
+",85,5,145000,3,1,1,nonparent,sarah,Female,1
+4417155,65000,5,5,4,5,5,6,5,0,5,6,5,5,6,5,4,4,5,3,"Pros: Experienced, educated, successful track record 
+Cons: No experience working for outside companies. ",68,3,140000,3,1,1,parent,allison,Male,0
+4417155,65000,5,5,4,5,5,6,5,0,5,4,4,5,5,4,4,5,6,5,"Pros: outside client experience, good track record, educated
+Cons: limited experience, no leadership experience  ",59,3,140000,4,1,1,nonparent,sarah,Male,0
+2160993,85000,5,6,6,5,4,5,5,0,5,6,6,6,5,6,5,7,6,6,"Pros:
+Experience in carrying a project from beginning to end
+Good educational background for this field
+Has worked on large projects
+
+Cons:
+Young, not that many years working
+No experience with very large companies generating massive revenues
+A large part of work experience is in public relations and not consulting",70,3,140,3,1,1,nonparent,allison,Female,0
+2160993,85000,5,6,6,5,4,5,5,0,6,6,6,7,6,6,5,7,6,6,"Pros:
+Experience in the field
+Managed very large projects
+Successful in increasing revenue prospects for clients
+
+Cons:
+Young, not as experienced as more veteran workers
+Didn't graduate from a prestigious university
+Has not worked in other states",75,2,150,4,1,0,parent,sarah,Female,0
+3808405,50000,5,5,4,6,6,5,5,0,6,6,6,6,6,6,6,6,6,6,"pros
+strong skillset
+relevant education
+accomplishments in previous jobs
+
+cons
+less than 10 years experience
+few relevant activities
+lacks wide range of experience
+",80,3,150000,3,1,1,nonparent,allison,Male,0
+3808405,50000,5,5,4,6,6,5,5,0,5,6,6,6,4,5,4,6,6,5,"pros
+Experience in multiple companies.  Wider knowledge of different situations and strategies
+Education. Degrees directly pertaining to her work
+Long term commitment to this field of work
+
+Cons
+Does not seem to stay for one job for very long
+less than 10 years experience
+few relevant activities
+",80,3,150000,3,1,1,parent,sarah,Male,0
+5855226,90000,6,6,6,6,5,6,4,0,4,4,4,4,4,4,4,4,5,4,"Cons
+Only four years in a consulting role.
+Has had no growth at her current company although she has been there for 4 years. 
+Internships do not indicate roll she worked at each company nor time frame in which she worked at each. 
+
+Pros
+Her work has achieve positive growth results. 
+Has both a masters and bachelors in business. 
+Has experience in marketing consulting
+",85,4,135000,2,0,1,nonparent,allison,Female,0
+5855226,90000,6,6,6,6,5,6,4,0,5,4,4,5,4,6,4,5,6,4,"Cons:
+In the last 5 years, borrower has not had any growth in her current company. 
+Results of her work are projected, none are final. 
+Previous internship is even planning and has little to do with consulting. 
+
+Pro:
+Familiar with best practices
+Has a masters in marketing
+Has experience in consulting
+",85,4,135000,2,0,1,parent,sarah,Female,0
+4936391,65000,6,7,7,6,7,7,7,0,6,7,6,7,7,5,7,6,6,7,"For the pros, her relevant activities are strong and she's been doing them for a long time. Her work experience is varied and shows effort. She also has a great education. Cons would be the lack of time spent at each company. Her bullet points could have been better worded or explained. Her relevant activities could be more varied.",92,4,165000,4,1,1,nonparent,allison,Male,0
+4936391,65000,6,7,7,6,7,7,7,0,6,5,6,6,6,5,6,5,5,6,"For the pros, she has varied work experience across multiple places. Her education is adequate for the position. Her relevant activities show initiative and independence. For the cons, she never spent too long at each company she worked at. Her schooling was a bit far apart. While her relevant activities do show initiative and independence, they're not necessarily aimed at the position.",85,3,155000,3,1,1,parent,sarah,Male,0
+1494076,100000,7,7,7,4,7,7,4,0,5,4,4,4,4,4,4,4,4,4,"Pros: BS in Business Administration, experience developing new marketing campaigns, management experience.
+
+Cons: Has not been at current employer as long as last candidate, 2 year gap in finishing education, previous employer at Manuel Relations does not seem valuable to this position. ",90,0,140000,4,1,1,parent,allison,Male,0
+1494076,100000,7,7,7,4,7,7,4,0,5,4,4,4,4,4,4,4,7,7,"Pros:
+
+She has launched pilot programs at her current position so she would be more than capable of launching management strategies for this position. 
+
+She has been with her current employer for 5 years so she shows reliability. 
+
+She has a diverse set of experience that includes a major in marketing might become critical for her new role.
+
+Cons:
+
+She has never carried a Management Consulting position. 
+
+She might ask for too much pay.
+
+She does not have Management Consulting experience. 
+
+
+
+",90,0,135000,3,1,0,nonparent,sarah,Male,0
+2262279,80000,6,6,6,6,6,6,4,0,5,4,4,4,4,4,4,4,6,6,"Pros:
+New to the consulting field - will be highly motivated and fresh
+Experience in management
+Experience in marketing
+
+Cons:
+New to the field - not as much experience
+3 jobs in &lt;5 years
+&lt;4 years at each job",85,4,135000,3,1,1,parent,allison,Female,0
+2262279,80000,6,6,6,6,6,6,4,0,5,4,4,4,4,4,4,4,5,5,"Pros:
+Master's in business admin
+New to the field - highly motivated to succeed
+Bachelor's in management (industrial)
+
+Cons:
+Limited experience in consulting
+4 jobs in &lt;5 years
+No job held for more than 2 years",85,4,135000,3,1,1,nonparent,sarah,Female,0
+7771434,90000,5,5,6,6,7,7,6,0,6,6,7,6,7,6,6,6,6,6,"cons: lives in NYC; hasn't been a consultant for very long; yahoo email doesn't seem professional
+pros: appears willing to travel; extensive schooling (has masters); increased skills/knowledge ",95,3,145000,3,1,1,parent,allison,Female,1
+7771434,90000,5,5,6,6,7,7,6,0,6,6,5,6,6,6,5,6,6,6,"cons - lives in NY and all exp is in TX; new consultant in industry; limited work experience
+pros - willing to telecommute; new in industry (can be trained/molded); volunteers",94,3,140000,3,1,1,nonparent,sarah,Female,1
+5156600,40000,5,4,5,5,5,4,5,0,5,6,5,6,4,5,3,5,6,4,"She has a masters degree in business administration. She has good internship experience. She generated a lot of money before.
+
+She can use more skills, She doesn't have a lot of relevant activities, Not much work experience.",71,10,150000,3,1,1,nonparent,allison,Male,0
+5156600,40000,5,4,5,5,5,4,5,0,4,5,5,6,4,5,4,4,5,5,"Has Masters in business administration.  Had good clients. Has good work experience.
+
+Not much relevant activities. No internship experience. Not clear how much money generated.",61,10,150000,3,1,1,parent,sarah,Male,0
+3047953,70000,7,6,6,6,6,6,4,0,6,7,6,6,5,6,3,6,6,6,"Pros: Stong management history. Long work history in multiple companies. Must communicate well due to extensive PR work.
+
+Cons: No direct Human Resources work. Only localized work experiance. Not a lot of independent work outside of the consultancy ",83,2,145000,3,1,1,nonparent,allison,Male,1
+3047953,70000,7,6,6,6,6,6,4,0,7,6,6,6,4,6,4,5,6,6,"Pros: Very Long work history and dedication to an individual agency. A proven track record of growth. Wider variety of work experiance in different forms of business and communication.
+
+Cons: no direct HR work. Not a very extensive list of clients fromm different fields. All work is within a localized area.",91,2,150000,3,1,1,parent,sarah,Male,1
+9883582,70000,4,5,7,7,6,6,7,0,7,7,5,6,5,6,5,6,5,6,"pros 1. has two degrees  2. excellent relationship management  3. has experience
+
+
+cons.1. short tenure with other companies 2. not a lot going on outside work 3. might be to analytical
+
+honestly these cons are just nitpicks",90,5,150000,4,1,1,nonparent,allison,Male,0
+9883582,70000,4,5,7,7,6,6,7,0,7,6,6,6,7,6,7,6,6,6,"Pros 1. has 2 degrees     2. has years of experience   3. is a leader
+
+Cons 1. very busy            2. very hard to find cons      3. maybe high turnover rate",90,5,150000,4,1,1,parent,sarah,Male,0
+9624090,60000,5,5,5,5,6,5,5,0,4,4,5,4,4,5,3,4,5,5,"Pros.
+Applicant has management experience
+Applicant has current work experience
+Apllicant seems to be a fit for the job.
+
+
+
+Cons
+Applicant date scheme is annoying
+Applicant has limited work history.
+Skills and knowledge section is sparse/vague",50,2,140000,3,1,1,parent,allison,Male,1
+9624090,60000,5,5,5,5,6,5,5,0,5,5,5,6,5,6,4,6,6,6,"Pros
+Work history is relevant
+Steady work history.
+Applicant seems successful in their most recent position.
+
+
+Cons
+Applicants most detailed work history is recent
+Applicants positions are not exactly the same as whats being looked for.
+Applicant doesnt show too many promotions",50,4,140000,3,1,1,nonparent,sarah,Male,1
+2854757,75000,7,7,7,4,7,4,4,0,6,6,6,6,6,6,4,6,6,6,"Pros
+1. She has a good education background
+2. She has a lot of work experience
+3. She has relevant activities from her community
+Cons
+1. She can't hold a job for very long
+2. The skills she listed are pretty generic
+3. She might need more experience for the role",85,4,150000,3,1,1,nonparent,allison,Male,0
+2854757,75000,7,7,7,4,7,4,4,0,5,5,5,5,5,5,3,5,5,5,"Pros
+1. She has a lot of experience with market research.
+2. She developed good earning programs for her previous employers. 
+3. She has experience leading teams.
+Cons
+1. She doesn't have a lot of experience as a manager.
+2. The email she used has a number in it which seems unprofessional.
+3. She also generic, unneeded information under ""relevant activities""",80,4,140000,3,1,1,parent,sarah,Male,0
+6956698,75000,6,6,5,6,6,7,7,0,6,6,6,6,7,7,5,7,7,6,"Pros:
+1. Good communication skills. 
+2. Has organization, planning and negotiation skills.
+3. Work history shows  that employee maintain employment at previous employers a reasonable amount of time.
+
+Cons: 
+1. No direct experience as a management consultant. 
+2. Candidates out of work activities may cause future conflicts.
+3. Limited experience handling high earning clients.",60,3,140000,3,1,1,parent,allison,Male,0
+6956698,75000,6,6,5,6,6,7,7,0,6,5,5,5,5,6,5,5,6,6,"Pros:
+1. Has previous experience as a consultant. 
+2. Has leadership experience.
+3. Has previous experience handling high earning accounts.
+
+Cons: 
+1. Has not stayed with same company as an employee for more than two years.
+2. Experience seems more focused towards marketing as oppose to management.
+3. Candidate may not be a good fit culturally in this location as a majority of the business handled by the candidate has been in Texas.",65,3,140000,3,1,1,nonparent,sarah,Male,0
+4301369,70000,6,7,6,6,7,7,6,0,5,5,5,5,5,4,4,5,5,4,"Pros - educated, experience, socially conscious
+Cons - does not remain at one employer very long, young, no social media contacts",68,5,100000,1,0,1,nonparent,allison,Male,0
+4301369,70000,6,7,6,6,7,7,6,0,7,7,7,6,7,7,6,7,7,7,"Pros - Productive, Efficient, Intelligent
+Cons - None",93,12,160000,4,1,1,parent,sarah,Male,0
+2264622,75000,7,7,7,7,6,7,7,0,5,5,4,5,5,6,5,5,6,5,"Has been outside of the home state to learn, prestigious education in relevant area, longer work history.
+
+Relevancy to current job for work history is slim, tenure at all of her jobs has been rather short, possibly over-extends in her desire to accomplish things.",90,2,65000,3,0,0,parent,allison,Male,0
+2264622,75000,7,7,7,7,6,7,7,0,7,6,7,7,6,7,6,7,7,6,"History with relevant work and skill utilization, prestigious education, and also has volunteer experience.
+
+All experience is in Texas so any consultancy with regional impacts or specifics may be limited in its scope and usefulness.  Somewhat young so her insight from an experienced management perspective may be limited.  Somewhat short work history, despite her good work in the jobs listed.",85,2,70000,4,1,1,nonparent,sarah,Male,0
+8014587,100000,5,6,6,5,6,6,5,0,6,6,6,6,6,6,4,6,6,6,"The pros are that they have a good resume, they have results on their resume, and they have relevant experience. The cons are that the resume would read better if set up like the previous one, with results and responsibilities combined, their results aren't that specific, and they have the skills section with very generic statements.",76,3,150000,3,1,0,parent,allison,Female,0
+8014587,100000,5,6,6,5,6,6,5,0,6,6,6,6,5,6,4,6,6,6,"The pros are that they have an excellent resume with concrete results from their past experiences, they have an MBA, and they seem clearly driven to succeed.
+The cons are that they don't have years of experience in this specific kind of position, they may be kind of young, and it looks like this would be only their 2nd post graduation job.
+",76,3,150000,4,1,1,nonparent,sarah,Female,0
+8658579,78000,5,4,4,5,6,4,2,0,6,6,5,5,5,6,2,6,6,6,"cons - small skills section, been through many companies, pros- education, interpersonal skills, related experience",75,4,136000,3,1,1,parent,allison,Female,1
+8658579,78000,5,4,4,5,6,4,2,0,4,3,4,4,4,3,2,4,4,1,"cons, bounces around companoe, seems busy pros- education with relevant information, extra cirriculars that are relevant, has had stable work history",91,3,135000,2,1,0,nonparent,sarah,Female,1
+2577435,75000,7,7,6,6,6,7,7,0,6,5,6,7,6,6,6,6,6,6,"Pros:
+ - Looks like she took on a lot of responsibilities at Atlantic Consultants
+ - Has a masters degree from good schools
+ - Was promoted at Identity Marketing
+
+Cons:
+ - At Manual public relations, it doesn't look like much work for 2 years
+ - Also doesn't seem to stay long at jobs
+ - had a 3 month gap in employment, was she fired?",75,3,150000,3,1,1,nonparent,allison,Male,0
+2577435,75000,7,7,6,6,6,7,7,0,7,7,6,6,6,6,7,6,7,6,"Pros:
+ - Her last companies improvement numbers were outstanding
+ - Graduated from a good college and business school
+ - Her activities outside of work are commendable, seems like a good person
+
+Cons:
+ - Seems like she switches job frequently, might not stay long
+ - At Hollander she put together a 5 year plan but didn't stick around to see it through. 
+ - Austin Communications it didn't seem like she accomplished that much",85,3,150000,3,1,1,parent,sarah,Male,0
+9303469,70000,5,5,5,6,6,6,5,0,7,6,6,7,7,6,6,7,7,6,"education, stable work experience, relevant experience
+
+overqualified, may not stay long, may demand too high of salary",87,1,150000,4,1,1,nonparent,allison,Male,0
+9303469,70000,5,5,5,6,6,6,5,0,6,6,6,7,6,6,7,6,7,6,"well educated, good experience, demonstrates motivation
+
+Does not stay in job long, may have personal life conflicts with work, may be overqualified",91,1,150000,3,1,1,parent,sarah,Male,0
+8485783,100000,6,5,5,5,6,6,4,0,5,5,5,5,5,5,3,4,4,5,"she seems hard working, has experience consulting, and has team leadership experience. 
+
+the cons would be she doesn't have that much work experience, less than 10 years, even less actual consulting experience, she's mostly worked in public relations, and has no real IT experience.",90,3,150000,3,1,1,parent,allison,Male,0
+8485783,100000,6,5,5,5,6,6,4,0,5,5,5,5,6,6,4,6,6,5,"pros, has good experience, has leadership potential, has managed a team
+
+cons, no listed IT experience, only worked for a few clients, may not be qualified for this position",90,3,135000,2,0,0,nonparent,sarah,Male,0
+6104705,68000,5,5,5,5,6,6,6,0,6,5,6,6,6,6,6,6,5,5,"Despite few years, a lot of experience seems to have been fit into those years, she went to graduate school, she has experience at a few different places.
+Not many related activities, only 4 years of experience, skill list not extensive",76,2,140000,3,1,1,parent,allison,Female,1
+6104705,68000,5,5,5,5,6,6,6,0,6,6,6,6,6,6,6,6,6,6,"few outside activities mentioned,never heard of graduate school, no skills mentioned
+masters, 10 yrs experience, leadership experience",76,2,160000,3,1,1,nonparent,sarah,Female,1
+4654333,70000,4,7,7,4,4,7,7,0,4,6,5,5,4,7,4,7,7,7,"Involved in Marketing Campaigns
+Managed Meetings
+Increased Customer Business
+
+Didn't stay with employer long
+no references
+No recommendations
+",80,5,135000,4,1,1,parent,allison,Female,1
+4654333,70000,4,7,7,4,4,7,7,0,7,7,7,7,7,5,4,7,7,7,"Marketing Experience
+Business Education
+Leads Teams
+
+Doesn't stay with a job for a long period
+Doesn't have references
+Doesn't have letter of recommendation",80,5,135000,4,1,1,nonparent,sarah,Female,1
+9573496,10000,3,3,4,5,4,5,5,0,5,5,5,5,5,5,4,3,4,4,"Pros- Plenty of experience, stable, and could be rewarding employee
+Cons- Command a higher pay, maybe controlling, not open to training ",78,2,165000,3,1,1,nonparent,allison,Female,0
+9573496,10000,3,3,4,5,4,5,5,0,5,4,4,4,6,6,3,5,4,4,"-Alot of experience
+-Could help grow a team
+-Agreesive
+
+Cons-Alot of jobs in a short period of time, possibly pushy, could command a higher pay than what company is willing to give. ",38,2,137000,3,1,1,parent,sarah,Female,0
+8979906,70000,4,4,4,4,5,5,5,0,5,4,4,4,5,5,5,4,4,5,"Pros: The candidate has management experience. The candidate has an MBA. The candidate has a diverse set of business experiences. 
+Cons: The candidate doesn't have direct experience in management consulting. The candidate has less than 10 years business experience. The candidate has changed jobs a lot and they might change jobs again.",75,0,140000,3,1,1,parent,allison,Male,0
+8979906,70000,4,4,4,4,5,5,5,0,4,4,4,4,4,3,3,5,4,4,"3 pros are: She has an MBA. She has worked as a consultant before. The candidate has experience in consulting, marketing, and development. 
+3 cons: She has less than 10 years business experience. The candidate might not have diverse enough experience for what were looking for. She might not be a good fit in a consulting position. ",75,0,135000,3,0,0,nonparent,sarah,Male,0

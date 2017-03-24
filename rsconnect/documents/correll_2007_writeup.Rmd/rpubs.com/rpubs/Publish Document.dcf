@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/261365/7ea01a191a664e69aceff118ce9fb390
+bundleId: https://api.rpubs.com/api/v1/document/261365/7ea01a191a664e69aceff118ce9fb390
+url: http://rpubs.com/dmetaxak/261365
+when: 1490323503.49894

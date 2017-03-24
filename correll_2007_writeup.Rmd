@@ -1,0 +1,218 @@
+---
+title: "Replication of 'Getting a Job: Is There a Motherhood Penalty' by S. Correll et al. (American Journal of Sociology)"
+author: "Danae Metaxa-Kakavouli (metaxa@cs.stanford.edu)"
+date: "March 24, 2017"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+---
+
+<!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
+
+##Introduction
+
+In a 2007 study, Correll et al. investigate the effect of parenthood on job applicant success through a classic resume study. The original study states that according to prior literature, "mothers experience disadvantages in the workplace in addition to those commonly associated with gender." It seeks to more concretely quantify the effects of motherhood on the desirability of a candidate by performing a laboratory experiement in order to evaluate status-based discrimination faced by mothers. The original study also subsequently conducts an audit study by sending resumes in response to actual hiring opportunities. 
+
+This replication focuses on the survey study portion of Correll et al 2007, and in particular on the effects on women, since the original study finds a small benefit to fatherhood in the survey study, and no effect of fatherhood in the audit study.  I used Correll et al's original female resumes, presented in an online Qualtrics survey. The study design is within-subjects for parental status, with each participant seeing two resumes, one mother and one nonmother. The replication survey produced in Qualtrics is [available here](https://stanforduniversity.qualtrics.com/jfe/form/SV_eu4ygR77iHcEi0t).
+
+##Methods
+
+###Power Analysis
+
+Correll et al. report effect sizes for several measures, including:
+* Perceived competence and committment; 
+* Ability standard measures (such as score needed on a hypothetical management profile exam in order to consider the candidate for employment and number of days the applicant could be late to work or leave early before the participant would no longer recommend her for hire); and 
+* Evaluation metrics (including proposed salary, estimated likelihood the applicant would be subsequently promoted i selected for the job, and recommendation for hire).
+
+Efect sizes ranged, with the largest effect sizes being reported for likelihood of promotion (Cohen's d=1.13), competence (d=0.849), and committment (d=0.707).
+
+Using G*Power, the sample sizes needed to achieve these strongest effects are recorded in the table below:
+
+Effect     | Cohen's d | N (power=0.8, two-tailed) | N (power=0.9, two-tailed) | N (power=0.95, two-tailed)
+-----------|-----------|---------------------------|---------------------------|---------------------------
+Competence | 0.849     | 46                        | 62                        | 76
+Committment| 0.707     | 66                        | 88                        | 108
+Promotion  | 1.138     | 28                        | 36                        | 44
+
+I documented a more detailed table with estimates for power [available here](https://docs.google.com/spreadsheets/d/1hou5a-C29BSMIvdibXEl5kouZqV6849j7sdtUqSiJLI/edit?usp=sharing).
+
+###Planned Sample
+
+I planned for one wave of 100 participants in order to have high power for observing the strongest effects, with another wave of 100 participants if no effects were observed to compensate for the publication bias that suggests the first published study may find a stronger effect than is generally the case. 
+
+Participants were recruited through Amazon Mechanical Turk with three criteria:
+* Only participants in the United States selected;
+* HIT approval for each participant was over 85% in order to filter spammers;
+* Number of HITs approved was over 100 in order to filter brand new Turkers. 
+
+###Materials
+
+The resumes used in this replication came directly from the Correll 2007 study authors:
+
+> The resumes listed the applicant’s career goals, educational history, past work experience, and other relevant activities. The resumes indicated that the applicants had bachelor’s degrees from one of two large midwestern universities and had approximately seven years of work experience. Both applicants were presented as highly pro- ductive by including 'results' on the resumes, such as 'increased division sales by 10% between 2000 and 2002'.
+
+All dates on both resumes were adjusted by 10 years so as to appear recent, but otherwise all other content remained the same. The authors developed these resumes, which had ot be different enough not to appear suspiciously similar, by pre-testing (with the manipulated content removed):
+
+> Prior to the actual experiment, we pretested the two versions of the materials to assess whether they were of equivalent quality... A different sample (N=60) drawn from the same population as in the actual experiment rated these two 'template' resumes, one at a time, using seven-point scale ranging from 'not a all' to 'extremely' capable, efficient, skilled, intelligent, independent, self-confident, warm, and sincere. No significant differences were found between participants' ratings of the two resumes on any of these eight traits.
+
+Additionally, because the two resumes were different in content and format, "parental status was counterbalanced in the actual experiement across the two versions of the resumes for each condition".
+
+###Procedure	
+
+The same procedure used in the original article was used in this replication, with the exception that they were recruited to an online survey via a Mechanical Turk HIT, rather than an in-person lab survey:
+
+> Participants came to the lab individually, read a description of a company that was purportedly hiring for a midlevel marketing position, and examined application materials for two applicants for the position who differed on parental status but were otherwise similar. They examined the applicant files one at a time, and we counterbalanced which file, the parent or nonparent, they viewed first. After reviewing an applicant’s file, participants immediately completed an 'initial impressions' survey for that applicant... On the same instrument, participants were asked to provide a list of pros and cons for each applicant, a task intended to entice them to look more closely at the applicants’ materials before proceeding to the next stage of evaluation. Participants were next instructed to look at the application materials more closely and complete an 'applicant evaluation sheet' for each candidate. This instrument contained our ability standard and evaluation measures.
+
+
+###Analysis Plan
+
+The planned analysis is to **investigate the same measures reported in the original study (competence, commitment, days allowed late, score required on exam, salary recommended, proportion recommended for management, likelihood of promotion, and proportion recommended for hire) between mothers and nonmothers using t-tests and proportion tests** (whichever applicable) as recorded in the results table of the paper. Additionally, analysis will include **linear and logistic regression models** (whichever applicable---linear for continuous and logistic for binary variables) to estimate the effects of applicant parental status on each of the dependent variables, as reported in the paper. 
+
+Data is cleaned by removing any participants who refused to make an effort at brainstorming pros and cons of each applicant (such as by writing gibberish) or those who reported noticing the manipulation.
+
+###Differences from Original Study
+
+The main differences between the original study and this replication are the the online format and, as a result, the participant population. Instead of bringing undergraduate students into a lab and handing them physical copies of the materials, online crowdworkers are recruited from Mechanical Turk and follow the experimental procedure through a Qualtrics survey. This could potentially have a serious effect on the results; undergraduates are incentivized by course credit, and have the goal of simply finishing the study to receive that credit. Online crowdworkers, in contrast, know that their pay as well as their future access to work is impacted by the quality of the work they submit, and so are incentivized to complete the work carefully and thoroughly. Since bias is unconscious, a more conscientious and diligent focus on applicant qualifications may minimize the unconcious bias a participant displays.
+
+Additionally, the original study also studied fathers compared to nonfathers using the same procedure; this replication only focuses on the stronger results which occurred between mothers and nonmothers, so no male resumes are used. Finally, the original study included stereotypically white-sounding and black-sounding names, but in the analysis races were pooled together since this race manipulation did not turn up significant results; this study only uses the white-sounding female names. These differences are not anticipated to make a difference in obtaining the original results. 
+
+Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
+
+### Methods Addendum (Post Data Collection)
+
+
+#### Actual Sample
+  Data was collected from 200 participants, using the above exclusion criteria. Due to an oversight on my part, demographics were only collected from the latter half of the participants. According to those demographics, 54% of participants were male and 45% were female. Additionally, 37% reported being parents themselves, and 63% reported not having any children.  
+  
+#### Differences from pre-data collection methods plan
+After data was collected, one additional step was taken in data cleaning: any salaries entered in the wrong format (i.e. as 150 rather than 150000) were corrected. These exclusion criteria were established before any data was collected.
+
+##Results
+
+### Data preparation
+
+Data preparation followed the analysis plan (this non-crucial code is hidden).
+	
+```{r include=F}
+###Data Preparation
+
+####Load Relevant Libraries and Functions
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+
+####Import data
+d <- read_csv("anonymized-results.csv")
+
+#### Data exclusion / filtering
+d <- d %>% filter(participant!="2453871") # Participant failed attention check of free-response (only typed gibberish)
+d <- d %>% filter(participant!="4900382") # Participant failed attention check of free-response (only typed gibberish)
+d <- d %>% filter(participant!="8547977") # This participant noticed the manipulation
+
+#### Prepare data for analysis - create columns etc.
+# Fix incorrectly-formatted salaries
+d <- d %>% mutate(salary = ifelse(salary<200 & salary>100, salary*1000, salary)) 
+d <- d %>% mutate(intro_salary = ifelse(intro_salary<200 & intro_salary>100, intro_salary*1000, intro_salary))
+# Filter out participants failing attention check of reasonable salaries
+d <- d %>% filter(intro_salary>1000)
+d <- d %>% filter(salary>1000)
+d$late_days <- parse_integer(d$late_days) # Correct type for late_days variable
+d$competence_composite <- (d$capable + d$efficient + d$skilled + d$intelligent + d$independent + d$confident + d$aggressive + d$organized)/8 # Create composite Competence variable as described in the original study
+```
+
+### Confirmatory analysis
+
+The analyses as specified in the analysis plan:
+
+```{r analysis}
+# The code below is a fancy way of doing all the t-tests at once, inspired by this: https://sebastiansauer.github.io/multiple-t-tests-with-dplyr/
+d %>% 
+  select(competence_composite, capable, efficient, skilled, intelligent, independent, confident, aggressive, organized, motivated, committed_relative_others, exam_percentile, late_days, salary, likelihood_promoted, manipulation) %>% 
+  gather(key = variable, value = value, -manipulation) %>% 
+  group_by(manipulation, variable) %>% 
+  summarise(value = list(value)) %>%
+  spread(manipulation, value) %>% 
+  group_by(variable) %>%
+  mutate(p_value = t.test(unlist(parent), unlist(nonparent), paired=TRUE)$p.value,
+         t_value = t.test(unlist(parent), unlist(nonparent), paired=TRUE)$statistic,
+         avg_parent = mean(unlist(parent)),
+         avg_nonparent = mean(unlist(nonparent)))
+
+# Proportion tests
+d %>% 
+  group_by(manipulation) %>%
+  summarize(hire_true = sum(hire_rec), total=n())
+prop.test(c(172, 158), c(198, 198), correct=FALSE, alternative = "greater")
+
+d %>% 
+  group_by(manipulation) %>%
+  summarize(train_true = sum(training_rec), total=n())
+prop.test(c(164, 152), c(198, 198), correct=FALSE, alternative = "greater")
+
+# Linear regressions
+ fit <- lm(competence_composite ~ manipulation, data=d)
+ fit <- lm(committed_relative_others ~ manipulation, data=d)
+ fit <- lm(late_days ~ manipulation, data=d)
+ fit <- lm(exam_percentile ~ manipulation, data=d)
+ fit <- lm(salary ~ manipulation, data=d)
+ fit <- glm(training_rec ~ manipulation, data=d)
+ fit <- lm(likelihood_promoted ~ manipulation, data=d)
+ fit <- glm(hire_rec ~ manipulation, data=d)
+ summary(fit)
+```
+
+The table below exactly reproduces that found on page 1316 Correll et al. 2007, with two rightmost added columns calculated from the replication. 
+
+Measure                             | Mothers (Original) | Nonmothers (Original) | Mothers (Replication) | Nonmothers (Replication)
+------------------------------------|--------------------|-----------------------|-----------------------|-------------------------
+Competence                          | 5.19**             | 5.75                  | 5.47                  | 5.54
+Commitment                          | 67.0**             | 79.2                  | 5.44                  | 5.58
+Days allowed late                   | 3.16**             | 3.73                  | 3.19                  | 3.98
+% score required on exam            | 72.4**             | 67.9                  | 79.25                 | 79.07
+Salary recommended ($)              | 137,000**          | 148,0000              | 144,313               | 144,651
+Proportion recommend for management | 0.691^^            | 0.862                 | 0.768^                | 0.828
+Likelihood of promotion             | 2.74**             | 3.42                  | 3.02                  | 3.10
+Proportion recommend for hire       | 0.468^^            | 0.840                 | 0.798^^               | 0.869
+
+^ Z < 0.10, test for difference in proportions between mothers and nonmothers.
+^^ Z < 0.05.
+* P < 0.10 test for difference in means between mothers and nonmothers
+** P < 0.05.
+
+###Exploratory analyses
+```{r further}
+# Linear regressions with more factors added
+ fit <- lm(competence_composite ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- lm(committed_relative_others ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- lm(late_days ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- lm(exam_percentile ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- lm(salary ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- glm(training_rec ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- lm(likelihood_promoted ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+ fit <- glm(hire_rec ~ manipulation + candidate_name + participant_sex + participant_parent, data=d)
+summary(fit)
+```
+
+As the regressions above indicate, although all measures are in the right direction (with only the "Recommendation for hire" binary variable being significantly predicted by the manipulation), there seems to be two more salient effect than parenthood---the resumes themselves, and the sex of the participant. I discuss these in greater detail below.
+
+As described in the Methods, two different resumes were used, after pre-testing as being equivalent. In order to identify whether this effect was due to the difference in presentation of the two resumes (e.g. line spacing on the resume judged as better was a bit larger, making it appear longer) I presented both resumes in a common format and ran another 50 participants, which found the same result. The data from this exploration is available as anonymized-followup.csv, and the analyses above can be run on that data. 
+
+Additionally, several of the models above suggest that the sex of the participant had a significant effect on the rating; men were harsher judges in general, and being rated by a man made a candidate significantly less likely to be recommended for hire, need a higher exam score, and be rated as less competent.
+
+## Discussion
+
+### Summary of Replication Attempt
+
+This replication attempt was partially successful. While the proportions recommended for management and hire do appear to be significantly different between mothers and nonmothers (with mothers being less likely to be recommended for management positions and for hire), the rest of the original study's findings do not replicate. It is notable, however, that all measures are in the right direction (that is, mothers are rated more harshly as concluded by the original study). 
+
+The stronger effect seems to be that of the different resumes. While the resumes pre-tested in the original study as being equivalent on the study's measures, this does not appear to be the case in my replication. Rather, one of the two resumes appears to be stronger overall. In a followup exploratory analysis, this is confirmed by putting both resumes in a uniform format, to control for the effect of the different interface. 
+
+Another effect is the sex of the participant reviewing the resume. While not a key finding, the paper does report that its regression models find a significant effect that female participants were more likely to recommend an an applicant for hire or promotion, regardless of parental status. 
+
+### Commentary
+
+A primary discrepancy between this replication and the original study is the relatively strong effect of the resume used on likelihood of promotion and other outcomes. This may suggest that online crowdworkers evaluate resumes differently than either undergraduates in a lab or actual hiring managers. It is possible that online workers, who know that their pay and future work opportunities are dependent on their performance, are more attentive to the content of the resume, mitigating their unconscious bias. 
+
+Additionally, futher analyzing the data  by sex of participant indicates that men are harsher in their judgements of the female applicants' competence (a composite variable made of attributes such as "skilled," "aggressive," "motivated," "capable," "efficient," etc.). The original study included 84 male and 108 female participants, where the gender ratio in this replication was majority males, which perhaps accounts for much of the lack of replication. This has important consequences for real-world hiring situations, in which some companies (for instance, Silicon Valley tech companies, which was the scenario described to participants in this study) may have an overwhelming majority of men, who are likely to judge female (and perhaps also male) resumes more harshly. 
